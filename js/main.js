@@ -39,5 +39,5 @@
     const timeinterval = setInterval(updateClock, 1000);
   }
 
-  const deadline = 'Sept 1, 2020';
+  const deadline = 'Sept 1, 2021';
   initializeClock('clockdiv', deadline);
